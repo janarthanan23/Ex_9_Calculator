@@ -1,4 +1,14 @@
 ## Ex.No:9 Develop a simple calculator using android studio.
+## PROGRAM:
+/*
+Program to print the text “calculator operation”.
+
+Developed by: Jashwana Fathima S
+
+Registeration Number : 212222040059
+
+Date : 7.10.2024
+*/
 ## AIM:
 To develop a program to develop a simple calculator in Android Studio.
 
@@ -19,15 +29,6 @@ Step 5: Design layout using UI components in activity_main.xml.
 Step 6: Display the calculator operation in MainActivity file.
 
 Step 7: Save and run the application.
-
-## PROGRAM:
-/*
-Program to print the text “calculator operation”.
-
-Developed by: Jashwana Fathima S
-
-Registeration Number : 212222040059
-*/
 
 ## activity_main.xml:
 ```
