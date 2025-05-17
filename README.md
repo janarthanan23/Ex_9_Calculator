@@ -3,11 +3,10 @@
 /*
 Program to print the text “calculator operation”.
 
-Developed by: Jashwana Fathima S
+Developed by: JANARTHANAN S
 
-Registeration Number : 212222040059
+Registeration Number : 212222040058
 
-Date : 7.10.2024
 */
 ## AIM:
 To develop a program to develop a simple calculator in Android Studio.
